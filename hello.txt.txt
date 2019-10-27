@@ -1,0 +1,4 @@
+git add 上传
+git commit -m "cc" 加备注
+git push origin master 提交
+git push 同步
